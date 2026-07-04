@@ -1,0 +1,23 @@
+# Deep learning
+tensorflow>=2.15
+
+# Classical ML / stats
+scikit-learn>=1.3
+scipy>=1.10
+hmmlearn>=0.3
+
+# Dimensionality reduction / embeddings
+umap-learn>=0.5
+
+# Data & plotting
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook
+jupyterlab>=4.0
+
+# NOTE: the notebook was written for Google Colab, which mounts Google Drive to
+# load the CSV. When running locally, remove the `google.colab` import and point
+# the data path at your local file (see data/README.md).
