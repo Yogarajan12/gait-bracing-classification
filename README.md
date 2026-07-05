@@ -76,7 +76,7 @@ Export the following plots from the notebook into `figures/` to make this sectio
 
 ```
 .
-├── multivariate_gait_analysis.ipynb       # main analysis (add your export here)
+├── multivariate_gait_analysis.ipynb       # main analysis notebook
 ├── data/
 │   └── README.md                          # expected schema and path; CSV not committed
 ├── figures/                               # exported plots referenced above
