@@ -122,7 +122,7 @@ If you use this work, please cite it:
   author       = {Sivakumar, Yogarajan},
   title        = {Multivariate Gait Analysis under Bracing Conditions:
                   Machine Learning and Deep Learning Approaches},
-  year         = {2026},
+  year         = {2025},
   howpublished = {\url{https://github.com/<your-username>/<repo-name>}}
 }
 ```
