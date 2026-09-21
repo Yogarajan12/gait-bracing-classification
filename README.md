@@ -154,7 +154,3 @@ Please also cite the original gait dataset once its source is added in `data/REA
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE).
-
-## Author
-
-Yogarajan Sivakumar. Research focused on interpretable and uncertainty-aware machine learning for clinical and biomedical applications.
