@@ -85,6 +85,7 @@ Three plots in `figures/` summarize the analysis for a reader skimming the repos
 │   ├── graph.py                           # skeleton adjacency (framework-free)
 │   ├── models.py                          # HMM classifier, LSTM builder, attention
 │   └── stgcn.py                           # spatio-temporal graph conv network
+├── report/                                # project report with more in-depth analysis and evaluation
 ├── tests/
 │   └── test_smoke.py                      # shape and build smoke tests
 ├── data/
